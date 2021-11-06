@@ -8,6 +8,7 @@
     tools:context=".MainActivity">
     <LinearLayout
         android:layout_width="match_parent"
+        android:background="#DD1414"
         android:layout_height="wrap_content"
         android:paddingTop="5dp"
         android:paddingBottom="5dp"
@@ -16,13 +17,16 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Android With Kotlin"/>
-        <ImageView
+        <ImageButton
+            android:id="@+id/image_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
     </LinearLayout>
 
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView_main_id"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_gravity="center"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
