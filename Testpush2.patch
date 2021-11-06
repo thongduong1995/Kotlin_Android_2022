@@ -1,0 +1,17 @@
+Index: app/src/main/java/com/example/kotlinandroid2022/MainActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/example/kotlinandroid2022/MainActivity.kt b/app/src/main/java/com/example/kotlinandroid2022/MainActivity.kt
+--- a/app/src/main/java/com/example/kotlinandroid2022/MainActivity.kt	(revision a37343985f3f88220a9d7f967dbd55ff7da9da46)
++++ b/app/src/main/java/com/example/kotlinandroid2022/MainActivity.kt	(date 1636183287949)
+@@ -8,6 +8,6 @@
+         super.onCreate(savedInstanceState)
+         setContentView(R.layout.activity_main)
+         //Test
+-        val isCheck:Boolean = false
++        val test:Boolean = true;
+     }
+ }
+\ No newline at end of file
