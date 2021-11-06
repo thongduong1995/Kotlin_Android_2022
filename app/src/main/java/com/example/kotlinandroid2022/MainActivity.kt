@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //Test
-        val isCheck:Boolean = false
+        val test:Boolean = true;
     }
 }
