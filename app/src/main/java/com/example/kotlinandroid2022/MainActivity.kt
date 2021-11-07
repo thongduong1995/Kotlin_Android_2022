@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
         recyclerView.adapter = myAdapter
         val layoutManager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
         recyclerView.layoutManager = layoutManager
-        recyclerView.addItemDecoration(DividerItemDecoration(this,layoutManager.orientation))
+        //recyclerView.addItemDecoration(DividerItemDecoration(this,layoutManager.orientation))
 
 
         binding.imageButton.setOnClickListener {

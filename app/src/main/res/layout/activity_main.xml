@@ -31,8 +31,6 @@
         android:layout_margin="5dp"
         android:id="@+id/recyclerView_main_id"
         android:layout_width="match_parent"
-        android:background="#F1EDED"
-        android:layout_gravity="center"
         android:layout_height="wrap_content" />
 
 </LinearLayout>
