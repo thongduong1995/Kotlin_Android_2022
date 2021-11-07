@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/layout/activity_detail_intent.xml" value="0.39791666666666664" />
         <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/layout/activity_main.xml" value="0.5590230664857531" />
+        <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/layout/activity_main2.xml" value="0.4114583333333333" />
         <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/layout/recycler_view_items_main.xml" value="0.5109375" />
       </map>
     </option>
