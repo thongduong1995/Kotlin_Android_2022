@@ -8,10 +8,20 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.KotlinAndroid2022">
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity
-            android:name=".activities.DetailIntentActivity"
+            android:name=".activities.DetailFragmentActivity"
             android:exported="true" />
+        <activity
+            android:name=".activities.DetailWidgetsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.DetailImplicitIntent"
+            android:exported="true" />
+        <activity
+            android:name=".activities.DetailExplicitIntentActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

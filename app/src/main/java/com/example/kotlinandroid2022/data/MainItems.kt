@@ -1,4 +1,6 @@
 package com.example.kotlinandroid2022.data
 
-class MainItems(val name:String, val image_id:Int, val item_type:Int) {
+import com.example.kotlinandroid2022.constant.MainItemType
+
+class MainItems(val name:String, val image_properties:ImageProperty, val item_type: MainItemType) {
 }

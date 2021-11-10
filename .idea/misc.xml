@@ -3,11 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/drawable/grid_icon_24.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/drawable/ic_activitylifecycle.xml" value="0.536" />
+        <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/drawable/image_cornor_main_recycler.xml" value="0.1" />
+        <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/drawable/linear_icon_24.xml" value="0.1527777777777778" />
         <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/drawable/main_recyclerview_item_decoration.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/drawable/main_recyclerview_item_decoration2.xml" value="0.4824074074074074" />
+        <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/drawable/main_space_recyclerview_item.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/drawable/widgets_icon_100.xml" value="0.19166666666666668" />
         <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/layout/activity_detail_intent.xml" value="0.39791666666666664" />
         <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/layout/activity_main.xml" value="0.5590230664857531" />
         <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/layout/activity_main2.xml" value="0.4114583333333333" />
-        <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/layout/recycler_view_items_main.xml" value="0.5109375" />
+        <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/layout/recycler_view_items_main.xml" value="0.1" />
+        <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/layout/recycler_view_items_main_vertical.xml" value="0.1" />
+        <entry key="..\:/Users/duong/OneDrive/Git_Projects/Kotlin Android 2022/app/src/main/res/layout/toolbar_layout.xml" value="0.6333333333333333" />
       </map>
     </option>
   </component>
